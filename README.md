@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @w-alexsander
-- 👀 
-- 🌱 
-- 💞️ .
-- 📫 
+- 👋 Olá, eu sou @w-alexsander
+-
 
 <!---
 w-alexsander/w-alexsander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
